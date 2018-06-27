@@ -1,0 +1,9 @@
+{
+  "name": "TwitchWidgetApp",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "electron-config": "^1.0.0",
+    "electron-window-state": "^4.1.1"
+  }
+}
